@@ -79,7 +79,7 @@ A web3-based APP that allows users to easily send cryptocurrencies from one acco
 4. Confirm the transaction.
 
 ## Demo
-
+This Video File is too big in size so , if you want to view it . You can just click on the link after that click on the `RAW` view.
 [Link to Video](https://github.com/ascendantaditya/KRYPT/blob/main/demo/demo.mp4)
 
 ## Contributing
