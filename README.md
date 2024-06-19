@@ -1,7 +1,7 @@
 ---
 
 # KRYPT
-
+   
 A web3-based APP that allows users to easily send cryptocurrencies from one account to another. Built with Hardhat and Zod integration for enhanced development and validation.
 
 ## Tech Stack
