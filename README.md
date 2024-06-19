@@ -80,7 +80,7 @@ A web3-based APP that allows users to easily send cryptocurrencies from one acco
 
 ## Demo
 
-
+[Link to Video](https://github.com/ascendantaditya/KRYPT/blob/main/demo/demo.mp4)
 
 ## Contributing
 
